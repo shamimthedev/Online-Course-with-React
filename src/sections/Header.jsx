@@ -1,9 +1,9 @@
-import Button from "../components/BUtton"
 import Container from "../components/Container"
 import Flex from "../components/Flex"
 import Image from "../components/Image"
 import Menu from "../components/Menu"
 import Logo from "../assets/images/logo.png";
+import Button from "../components/Button";
 
 const Header = () => {
     return (
