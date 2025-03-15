@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "engines": {
-  "node": "14.x"
-},
+    "node": "22.x"
+  },
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
