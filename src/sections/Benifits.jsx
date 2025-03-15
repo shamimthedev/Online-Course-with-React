@@ -1,4 +1,4 @@
-import Button from "../components/BUtton"
+import Button from "../components/Button"
 import Container from "../components/Container"
 import Flex from "../components/Flex"
 import Heading from "../components/Heading"

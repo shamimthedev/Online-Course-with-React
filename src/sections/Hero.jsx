@@ -1,10 +1,9 @@
-import Button from "../components/BUtton"
+import Button from "../components/Button"
 import Container from "../components/Container"
 import Flex from "../components/Flex"
 import Heading from "../components/Heading"
 import Image from "../components/Image"
 import HeroImg from "../assets/images/hero-img.png";
-
 const Hero = () => {
   return (
     <>
