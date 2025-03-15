@@ -1,7 +1,7 @@
 import { FaStar } from "react-icons/fa"
 import Heading from "./Heading"
 import Image from "./Image"
-import Button from "./BUtton"
+import Button from "./Button"
 import CourseOne from "../assets/images/course-img-01.png";
 
 const CourseItem = () => {
